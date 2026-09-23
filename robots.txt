@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://matheus-yano.github.io/contabil-mais/sitemap.xml

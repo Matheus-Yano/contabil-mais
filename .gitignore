@@ -1,0 +1,13 @@
+# Segredos e configurações locais
+.env
+.env.*
+!.env.example
+
+# Dependências e artefatos locais
+node_modules/
+.vscode/
+.DS_Store
+Thumbs.db
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*

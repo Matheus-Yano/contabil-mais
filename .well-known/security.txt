@@ -1,0 +1,4 @@
+Contact: mailto:contabilmaisgestao@gmail.com
+Policy: https://matheus-yano.github.io/contabil-mais/privacidade.html
+Preferred-Languages: pt-BR, en
+Expires: 2027-09-23T00:00:00.000Z
